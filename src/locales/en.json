@@ -10,7 +10,157 @@
       "twitterDescription": "Country RNG 2 Wiki for Roblox: rare countries, roll chances, luck upgrades, events, codes, gamepasses, and beginner tips."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "countries": "Countries",
+    "tierList": "Tier List",
+    "events": "Events",
+    "badges": "Badges",
+    "rooms": "Rooms"
+  },
+  "pages": {
+    "codes": {
+      "title": "Country RNG 2 Codes",
+      "description": "Track the latest Country RNG 2 codes for free rewards, boosts, and limited-time bonuses, with redemption steps and an expired list to keep your inventory clean.",
+      "metaTitle": "Country RNG 2 Codes - Free Rewards & Redeem Guide",
+      "metaDescription": "Get the latest Country RNG 2 codes for free rewards, luck boosts, and limited-time bonuses. Check active codes, redemption steps, and the expired list.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What Are Country RNG 2 Codes?",
+      "whatIsDescription": "Country RNG 2 codes are promo redemption codes released by Retrobyte Gamess through the official Roblox page, the Retrobyte Gamess community, and the @RetrobyteG social channel. When a code is published, it can grant free rewards such as boosts, cash, or limited-time bonuses that support your country-rolling progress.",
+      "why": "Why Redeem Country RNG 2 Codes?",
+      "whySteps": {
+        "step1Title": "Claim Free Progress Boosts",
+        "step1Description": "Active codes can grant free boosts or resources that speed up your country-rolling loop without spending Robux.",
+        "step2Title": "Catch Limited-Time Rewards",
+        "step2Description": "Codes often drop around updates, milestones, or community events, so redeeming them early helps you avoid missing limited-time rewards.",
+        "step3Title": "Stay Ahead of Updates",
+        "step3Description": "New codes tend to follow patches and events, so checking back regularly keeps you ready for fresh rewards before rare-roll hunting gets busy."
+      },
+      "featured": "Featured Codes",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "Country RNG 2 Guide",
+      "description": "Complete Country RNG 2 guides covering beginner steps, the roll loop, luck building, upgrade order, and tips for chasing rare countries on Roblox.",
+      "metaTitle": "Country RNG 2 Guide - Beginner Tips, Luck & Upgrades",
+      "metaDescription": "Master Country RNG 2 with beginner guides, luck strategies, upgrade-tree order, and tips for rolling rare countries in this Roblox RNG experience.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "What Is the Country RNG 2 Guide?",
+      "whatIsDescription": "The Country RNG 2 guide section explains how the core roll loop works: roll for countries, collect flags, progress through the upgrade tree, and chase rare country events. It covers beginner first steps, luck building, upgrade priority, and advanced tips so you stop wasting rolls and start progressing with a clear plan.",
+      "why": "Why Read the Country RNG 2 Guide?",
+      "whySteps": {
+        "step1Title": "Start With a Clear Roll Loop",
+        "step1Description": "Understand the basic loop of rolling, collecting, comparing rarity, and chasing better flags so your early sessions build toward long-term progress instead of random rolling.",
+        "step2Title": "Build Luck the Right Way",
+        "step2Description": "Learn how luck, the upgrade tree, and roll speed work together to push you toward rare countries and the event moments they trigger.",
+        "step3Title": "Avoid Wasted Resources",
+        "step3Description": "Follow upgrade order and boost timing tips so you spend cash, gold, and potions on the systems that actually move your account forward."
+      },
+      "featured": "Featured Guides",
+      "all": "All Guides"
+    },
+    "countries": {
+      "title": "Country RNG 2 Countries",
+      "description": "Browse every rollable Country RNG 2 country, flag, and rarity tier, plus rare country chase targets and a full country list.",
+      "metaTitle": "Country RNG 2 Countries & Flags - Full Country List",
+      "metaDescription": "Explore the full Country RNG 2 country list, flags, and rarity tiers. Find rare countries, chase targets, and complete your flag collection.",
+      "categoryLabel": "COUNTRIES",
+      "whatIs": "What Are Countries in Country RNG 2?",
+      "whatIsDescription": "Countries are the core collectible in Country RNG 2. Each roll produces a country result with its national flag, and rare countries are the main chase target that can trigger special in-game event moments. Your goal is to fill out the collection while pushing for rarer flags through the upgrade tree and luck.",
+      "why": "Why Track Countries?",
+      "whySteps": {
+        "step1Title": "Chase Rare Country Rolls",
+        "step1Description": "Rare countries are the highest-value results in the rolling loop, and rolling one can trigger showcase event moments worth recording.",
+        "step2Title": "Complete Your Flag Collection",
+        "step2Description": "Tracking the country list helps you see which flags you already own and which rare targets are still missing from your collection.",
+        "step3Title": "Plan Your Upgrade Path",
+        "step3Description": "Knowing which countries are rare lets you focus your luck, roll speed, and upgrade-tree progress on the results that actually matter."
+      },
+      "featured": "Featured Countries",
+      "all": "All Countries"
+    },
+    "tier-list": {
+      "title": "Country RNG 2 Tier List",
+      "description": "Country RNG 2 tier list ranking countries and progression goals by rarity, showcase value, growth impact, and resource efficiency.",
+      "metaTitle": "Country RNG 2 Tier List - Best Countries & Goals Ranked",
+      "metaDescription": "Check the Country RNG 2 tier list for the best countries, progression goals, and upgrades ranked by rarity, value, and growth impact.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "What Is the Country RNG 2 Tier List?",
+      "whatIsDescription": "The Country RNG 2 tier list ranks countries, rolling goals, and progression systems by what actually affects your account: rarity pressure, flag showcase value, upgrade-tree growth, roll speed, and resource gain. Each tier explains the sorting basis so the ranking stays practical instead of subjective.",
+      "why": "Why Use the Tier List?",
+      "whySteps": {
+        "step1Title": "Focus on Real Chase Targets",
+        "step1Description": "The top tiers highlight the rare countries and progression systems that drive the most long-term value.",
+        "step2Title": "Spend Resources Efficiently",
+        "step2Description": "Use the tier basis to decide which upgrades, passes, and boosts are worth prioritizing at your current stage.",
+        "step3Title": "Avoid Low-Value Traps",
+        "step3Description": "The lower tiers show which results and picks are mostly collection filler so you do not waste time chasing low-impact goals."
+      },
+      "featured": "Featured Tiers",
+      "all": "All Tier Entries"
+    },
+    "events": {
+      "title": "Country RNG 2 Events",
+      "description": "Country RNG 2 events and rare-roll triggers, including seasonal activities, limited-time updates, and what happens when a rare country drops.",
+      "metaTitle": "Country RNG 2 Events - Rare Rolls & Live Updates",
+      "metaDescription": "Track Country RNG 2 events, rare-roll triggers, seasonal activities, and live updates so you never miss a showcase moment or limited-time event.",
+      "categoryLabel": "EVENTS",
+      "whatIs": "What Are Country RNG 2 Events?",
+      "whatIsDescription": "Country RNG 2 uses rare rolls as event triggers: when you roll a rare country, the game highlights a cool event moment. Events also cover seasonal activities, limited-time updates, and live patch activity tracked from the official Roblox page and the Retrobyte Gamess community.",
+      "why": "Why Follow Country RNG 2 Events?",
+      "whySteps": {
+        "step1Title": "Catch Rare-Roll Moments",
+        "step1Description": "Rare country events are showcase moments worth recording, and knowing the triggers helps you recognize and save them.",
+        "step2Title": "Stay on Top of Seasonal Content",
+        "step2Description": "Seasonal events and limited-time activities often bring new countries, boosts, or rewards that disappear after the event ends.",
+        "step3Title": "Track Live Updates",
+        "step3Description": "Following update channels keeps you informed about new maps, passes, and changes that affect rolling and progression."
+      },
+      "featured": "Featured Events",
+      "all": "All Events"
+    },
+    "badges": {
+      "title": "Country RNG 2 Badges",
+      "description": "Country RNG 2 badges and secret achievements, including how to earn hidden badges, secret code badges, and community-tracked milestones.",
+      "metaTitle": "Country RNG 2 Badges - Secret & Hidden Badge Guide",
+      "metaDescription": "Find every Country RNG 2 badge, including secret code badges, hidden achievements, and community-tracked milestones with clear unlock steps.",
+      "categoryLabel": "BADGES",
+      "whatIs": "What Are Country RNG 2 Badges?",
+      "whatIsDescription": "Country RNG 2 badges are collectible achievements that mark specific milestones, hidden challenges, or secret code unlocks. Some badges are tied to secret rooms and cave codes, while others reward exploration and community-tracked goals. Badge hunting adds long-term completion objectives beyond the core rolling loop.",
+      "why": "Why Hunt Country RNG 2 Badges?",
+      "whySteps": {
+        "step1Title": "Unlock Secret Achievements",
+        "step1Description": "Hidden and secret code badges reward players who explore secret rooms, enter cave codes, and look past the main rolling loop.",
+        "step2Title": "Track Completion Milestones",
+        "step2Description": "Badges give you long-term goals that measure your progress and dedication beyond simply collecting flags.",
+        "step3Title": "Follow Community Discoveries",
+        "step3Description": "Many badges are found and verified by the community first, so following badge guides keeps you current on new unlocks."
+      },
+      "featured": "Featured Badges",
+      "all": "All Badges"
+    },
+    "rooms": {
+      "title": "Country RNG 2 Secret Rooms",
+      "description": "Country RNG 2 secret rooms and cave code locations, including hidden room entry steps, cave codes, and common failure causes.",
+      "metaTitle": "Country RNG 2 Secret Rooms & Cave Codes - Locations Guide",
+      "metaDescription": "Find every Country RNG 2 secret room, hidden cave code, and entry step. Complete guide to secret room locations and cave code inputs.",
+      "categoryLabel": "SECRET ROOMS",
+      "whatIs": "What Are Secret Rooms in Country RNG 2?",
+      "whatIsDescription": "Secret rooms in Country RNG 2 are hidden areas that require specific cave codes or actions to enter. They often contain badge unlocks, easter eggs, or special encounters tied to the game's rare-roll and collection systems. Most secret rooms are discovered by the community and verified through gameplay.",
+      "why": "Why Explore Secret Rooms?",
+      "whySteps": {
+        "step1Title": "Unlock Exclusive Content",
+        "step1Description": "Secret rooms often hide badges, easter eggs, and encounters that are not available through normal rolling.",
+        "step2Title": "Use Verified Cave Codes",
+        "step2Description": "Follow community-verified cave code locations and entry steps so you can access hidden rooms without trial and error.",
+        "step3Title": "Solve Common Entry Issues",
+        "step3Description": "Guides cover common failure causes and prerequisites, so you know exactly what to do when a code or door is not working."
+      },
+      "featured": "Featured Rooms",
+      "all": "All Secret Rooms"
+    }
+  },
   "common": {
     "home": "Home",
     "more": "More",

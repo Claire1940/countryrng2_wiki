@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guia",
+    "countries": "Países",
+    "tierList": "Lista de Tiers",
+    "events": "Eventos",
+    "badges": "Emblemas",
+    "rooms": "Salas"
+  }
+}

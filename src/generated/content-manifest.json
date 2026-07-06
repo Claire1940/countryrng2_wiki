@@ -1,1 +1,494 @@
-{}
+{
+  "en": {
+    "badges": [
+      {
+        "slug": "country-rng-2-badges",
+        "file": "country-rng-2-badges"
+      },
+      {
+        "slug": "country-rng-2-cloud-9-badge",
+        "file": "country-rng-2-cloud-9-badge"
+      },
+      {
+        "slug": "country-rng-2-dark-in-here-badge",
+        "file": "country-rng-2-dark-in-here-badge"
+      },
+      {
+        "slug": "country-rng-2-deep-dark-badge",
+        "file": "country-rng-2-deep-dark-badge"
+      },
+      {
+        "slug": "country-rng-2-deeper-dark-badge",
+        "file": "country-rng-2-deeper-dark-badge"
+      },
+      {
+        "slug": "country-rng-2-secret-badges",
+        "file": "country-rng-2-secret-badges"
+      },
+      {
+        "slug": "country-rng-2-secret-code-badge",
+        "file": "country-rng-2-secret-code-badge"
+      },
+      {
+        "slug": "country-rng-2-sigma-badge",
+        "file": "country-rng-2-sigma-badge"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "country-rng-2-codes",
+        "file": "country-rng-2-codes"
+      }
+    ],
+    "countries": [
+      {
+        "slug": "country-rng-2-australia",
+        "file": "country-rng-2-australia"
+      },
+      {
+        "slug": "country-rng-2-best-countries",
+        "file": "country-rng-2-best-countries"
+      },
+      {
+        "slug": "country-rng-2-country-list",
+        "file": "country-rng-2-country-list"
+      },
+      {
+        "slug": "country-rng-2-rare-countries",
+        "file": "country-rng-2-rare-countries"
+      },
+      {
+        "slug": "country-rng-2-rarest-country",
+        "file": "country-rng-2-rarest-country"
+      },
+      {
+        "slug": "country-rng-2-turkish-flag",
+        "file": "country-rng-2-turkish-flag"
+      }
+    ],
+    "events": [
+      {
+        "slug": "country-rng-2-bloodmoon",
+        "file": "country-rng-2-bloodmoon"
+      },
+      {
+        "slug": "country-rng-2-easter-event",
+        "file": "country-rng-2-easter-event"
+      },
+      {
+        "slug": "country-rng-2-live-update",
+        "file": "country-rng-2-live-update"
+      },
+      {
+        "slug": "country-rng-2-spooky-update",
+        "file": "country-rng-2-spooky-update"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "country-rng-2-beginner-guide",
+        "file": "country-rng-2-beginner-guide"
+      },
+      {
+        "slug": "country-rng-2-billion-luck",
+        "file": "country-rng-2-billion-luck"
+      },
+      {
+        "slug": "country-rng-2-event-guide",
+        "file": "country-rng-2-event-guide"
+      },
+      {
+        "slug": "country-rng-2-first-time",
+        "file": "country-rng-2-first-time"
+      },
+      {
+        "slug": "country-rng-2-guide",
+        "file": "country-rng-2-guide"
+      },
+      {
+        "slug": "country-rng-2-how-to-get-luck",
+        "file": "country-rng-2-how-to-get-luck"
+      },
+      {
+        "slug": "country-rng-2-how-to-play",
+        "file": "country-rng-2-how-to-play"
+      },
+      {
+        "slug": "country-rng-2-luck-guide",
+        "file": "country-rng-2-luck-guide"
+      },
+      {
+        "slug": "country-rng-2-tips",
+        "file": "country-rng-2-tips"
+      },
+      {
+        "slug": "country-rng-2-update-guide",
+        "file": "country-rng-2-update-guide"
+      }
+    ],
+    "rooms": [
+      {
+        "slug": "country-rng-2-cave-code",
+        "file": "country-rng-2-cave-code"
+      },
+      {
+        "slug": "country-rng-2-cave-secret-code",
+        "file": "country-rng-2-cave-secret-code"
+      },
+      {
+        "slug": "country-rng-2-hidden-rooms",
+        "file": "country-rng-2-hidden-rooms"
+      },
+      {
+        "slug": "country-rng-2-secret-room-locations",
+        "file": "country-rng-2-secret-room-locations"
+      },
+      {
+        "slug": "country-rng-2-secret-rooms",
+        "file": "country-rng-2-secret-rooms"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "country-rng-2-best-country-tier-list",
+        "file": "country-rng-2-best-country-tier-list"
+      },
+      {
+        "slug": "country-rng-2-country-tier-list",
+        "file": "country-rng-2-country-tier-list"
+      },
+      {
+        "slug": "country-rng-2-tier-list",
+        "file": "country-rng-2-tier-list"
+      }
+    ]
+  },
+  "es": {
+    "badges": [
+      {
+        "slug": "country-rng-2-badges",
+        "file": "country-rng-2-badges"
+      },
+      {
+        "slug": "country-rng-2-cloud-9-badge",
+        "file": "country-rng-2-cloud-9-badge"
+      },
+      {
+        "slug": "country-rng-2-dark-in-here-badge",
+        "file": "country-rng-2-dark-in-here-badge"
+      },
+      {
+        "slug": "country-rng-2-deep-dark-badge",
+        "file": "country-rng-2-deep-dark-badge"
+      },
+      {
+        "slug": "country-rng-2-deeper-dark-badge",
+        "file": "country-rng-2-deeper-dark-badge"
+      },
+      {
+        "slug": "country-rng-2-secret-badges",
+        "file": "country-rng-2-secret-badges"
+      },
+      {
+        "slug": "country-rng-2-secret-code-badge",
+        "file": "country-rng-2-secret-code-badge"
+      },
+      {
+        "slug": "country-rng-2-sigma-badge",
+        "file": "country-rng-2-sigma-badge"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "country-rng-2-codes",
+        "file": "country-rng-2-codes"
+      }
+    ],
+    "countries": [
+      {
+        "slug": "country-rng-2-australia",
+        "file": "country-rng-2-australia"
+      },
+      {
+        "slug": "country-rng-2-best-countries",
+        "file": "country-rng-2-best-countries"
+      },
+      {
+        "slug": "country-rng-2-country-list",
+        "file": "country-rng-2-country-list"
+      },
+      {
+        "slug": "country-rng-2-rare-countries",
+        "file": "country-rng-2-rare-countries"
+      },
+      {
+        "slug": "country-rng-2-rarest-country",
+        "file": "country-rng-2-rarest-country"
+      },
+      {
+        "slug": "country-rng-2-turkish-flag",
+        "file": "country-rng-2-turkish-flag"
+      }
+    ],
+    "events": [
+      {
+        "slug": "country-rng-2-bloodmoon",
+        "file": "country-rng-2-bloodmoon"
+      },
+      {
+        "slug": "country-rng-2-easter-event",
+        "file": "country-rng-2-easter-event"
+      },
+      {
+        "slug": "country-rng-2-live-update",
+        "file": "country-rng-2-live-update"
+      },
+      {
+        "slug": "country-rng-2-spooky-update",
+        "file": "country-rng-2-spooky-update"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "country-rng-2-beginner-guide",
+        "file": "country-rng-2-beginner-guide"
+      },
+      {
+        "slug": "country-rng-2-billion-luck",
+        "file": "country-rng-2-billion-luck"
+      },
+      {
+        "slug": "country-rng-2-event-guide",
+        "file": "country-rng-2-event-guide"
+      },
+      {
+        "slug": "country-rng-2-first-time",
+        "file": "country-rng-2-first-time"
+      },
+      {
+        "slug": "country-rng-2-guide",
+        "file": "country-rng-2-guide"
+      },
+      {
+        "slug": "country-rng-2-how-to-get-luck",
+        "file": "country-rng-2-how-to-get-luck"
+      },
+      {
+        "slug": "country-rng-2-how-to-play",
+        "file": "country-rng-2-how-to-play"
+      },
+      {
+        "slug": "country-rng-2-luck-guide",
+        "file": "country-rng-2-luck-guide"
+      },
+      {
+        "slug": "country-rng-2-tips",
+        "file": "country-rng-2-tips"
+      },
+      {
+        "slug": "country-rng-2-update-guide",
+        "file": "country-rng-2-update-guide"
+      }
+    ],
+    "rooms": [
+      {
+        "slug": "country-rng-2-cave-code",
+        "file": "country-rng-2-cave-code"
+      },
+      {
+        "slug": "country-rng-2-cave-secret-code",
+        "file": "country-rng-2-cave-secret-code"
+      },
+      {
+        "slug": "country-rng-2-hidden-rooms",
+        "file": "country-rng-2-hidden-rooms"
+      },
+      {
+        "slug": "country-rng-2-secret-room-locations",
+        "file": "country-rng-2-secret-room-locations"
+      },
+      {
+        "slug": "country-rng-2-secret-rooms",
+        "file": "country-rng-2-secret-rooms"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "country-rng-2-best-country-tier-list",
+        "file": "country-rng-2-best-country-tier-list"
+      },
+      {
+        "slug": "country-rng-2-country-tier-list",
+        "file": "country-rng-2-country-tier-list"
+      },
+      {
+        "slug": "country-rng-2-tier-list",
+        "file": "country-rng-2-tier-list"
+      }
+    ]
+  },
+  "pt": {
+    "badges": [
+      {
+        "slug": "country-rng-2-badges",
+        "file": "country-rng-2-badges"
+      },
+      {
+        "slug": "country-rng-2-cloud-9-badge",
+        "file": "country-rng-2-cloud-9-badge"
+      },
+      {
+        "slug": "country-rng-2-dark-in-here-badge",
+        "file": "country-rng-2-dark-in-here-badge"
+      },
+      {
+        "slug": "country-rng-2-deep-dark-badge",
+        "file": "country-rng-2-deep-dark-badge"
+      },
+      {
+        "slug": "country-rng-2-deeper-dark-badge",
+        "file": "country-rng-2-deeper-dark-badge"
+      },
+      {
+        "slug": "country-rng-2-secret-badges",
+        "file": "country-rng-2-secret-badges"
+      },
+      {
+        "slug": "country-rng-2-secret-code-badge",
+        "file": "country-rng-2-secret-code-badge"
+      },
+      {
+        "slug": "country-rng-2-sigma-badge",
+        "file": "country-rng-2-sigma-badge"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "country-rng-2-codes",
+        "file": "country-rng-2-codes"
+      }
+    ],
+    "countries": [
+      {
+        "slug": "country-rng-2-australia",
+        "file": "country-rng-2-australia"
+      },
+      {
+        "slug": "country-rng-2-best-countries",
+        "file": "country-rng-2-best-countries"
+      },
+      {
+        "slug": "country-rng-2-country-list",
+        "file": "country-rng-2-country-list"
+      },
+      {
+        "slug": "country-rng-2-rare-countries",
+        "file": "country-rng-2-rare-countries"
+      },
+      {
+        "slug": "country-rng-2-rarest-country",
+        "file": "country-rng-2-rarest-country"
+      },
+      {
+        "slug": "country-rng-2-turkish-flag",
+        "file": "country-rng-2-turkish-flag"
+      }
+    ],
+    "events": [
+      {
+        "slug": "country-rng-2-bloodmoon",
+        "file": "country-rng-2-bloodmoon"
+      },
+      {
+        "slug": "country-rng-2-easter-event",
+        "file": "country-rng-2-easter-event"
+      },
+      {
+        "slug": "country-rng-2-live-update",
+        "file": "country-rng-2-live-update"
+      },
+      {
+        "slug": "country-rng-2-spooky-update",
+        "file": "country-rng-2-spooky-update"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "country-rng-2-beginner-guide",
+        "file": "country-rng-2-beginner-guide"
+      },
+      {
+        "slug": "country-rng-2-billion-luck",
+        "file": "country-rng-2-billion-luck"
+      },
+      {
+        "slug": "country-rng-2-event-guide",
+        "file": "country-rng-2-event-guide"
+      },
+      {
+        "slug": "country-rng-2-first-time",
+        "file": "country-rng-2-first-time"
+      },
+      {
+        "slug": "country-rng-2-guide",
+        "file": "country-rng-2-guide"
+      },
+      {
+        "slug": "country-rng-2-how-to-get-luck",
+        "file": "country-rng-2-how-to-get-luck"
+      },
+      {
+        "slug": "country-rng-2-how-to-play",
+        "file": "country-rng-2-how-to-play"
+      },
+      {
+        "slug": "country-rng-2-luck-guide",
+        "file": "country-rng-2-luck-guide"
+      },
+      {
+        "slug": "country-rng-2-tips",
+        "file": "country-rng-2-tips"
+      },
+      {
+        "slug": "country-rng-2-update-guide",
+        "file": "country-rng-2-update-guide"
+      }
+    ],
+    "rooms": [
+      {
+        "slug": "country-rng-2-cave-code",
+        "file": "country-rng-2-cave-code"
+      },
+      {
+        "slug": "country-rng-2-cave-secret-code",
+        "file": "country-rng-2-cave-secret-code"
+      },
+      {
+        "slug": "country-rng-2-hidden-rooms",
+        "file": "country-rng-2-hidden-rooms"
+      },
+      {
+        "slug": "country-rng-2-secret-room-locations",
+        "file": "country-rng-2-secret-room-locations"
+      },
+      {
+        "slug": "country-rng-2-secret-rooms",
+        "file": "country-rng-2-secret-rooms"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "country-rng-2-best-country-tier-list",
+        "file": "country-rng-2-best-country-tier-list"
+      },
+      {
+        "slug": "country-rng-2-country-tier-list",
+        "file": "country-rng-2-country-tier-list"
+      },
+      {
+        "slug": "country-rng-2-tier-list",
+        "file": "country-rng-2-tier-list"
+      }
+    ]
+  }
+}

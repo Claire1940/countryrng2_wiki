@@ -1,0 +1,218 @@
+import { Map, Target, Shield, Sparkles, Trophy, AlertTriangle } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "country rng 2 hidden rooms: Search Routes & Secret Tips",
+  description: "Find hidden rooms in Country RNG 2 with smarter search routes, proof checks, and safe secret-hunting habits for Roblox players across every 2026 update.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1D4ED8/fff?text=Hidden+Rooms+Guide",
+  date: "2026-07-06",
+  author: "country rng 2 Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **country rng 2 hidden rooms** work best as a search-and-verify task, not a guess-based treasure hunt.
+- **Scan edges, corners, and off-angle spaces** before you trust any rumor or clip.
+- **Record proof first** if you find something unusual, then test whether it can be repeated.
+- **Use official game links** to check for updates before you spend time hunting a stale route.
+</Callout>
+
+<Section icon={Map} title="country rng 2 hidden rooms: What Counts as Real">
+
+Country RNG 2 hidden rooms are easiest to handle as a location problem, not a hype problem. If a space cannot be entered, repeated, or shown clearly from more than one angle, treat it as unconfirmed. That keeps your notes clean and saves time when the map changes after an update.
+
+**Open the official game page first:** [Country RNG 2 on Roblox](https://www.roblox.com/games/93994609252204/Country-RNG-2). If you want a second verification point, use the [Retrobyte Gamess community page](https://www.roblox.com/communities/33245554/Retrobyte-Gamess) to see whether the experience has been updated recently.
+
+**Video-free guide rule:** there is no reliable embedded video here, so the route is built from direct search logic and current game structure.
+
+| Signal | What to inspect | Why it matters |
+| --- | --- | --- |
+| Tight wall seam | Walk the edge, then rotate the camera | Many hidden spaces begin where geometry looks incomplete |
+| Camera clash | Push the camera into corners and low ceilings | A room can be visible before it is enterable |
+| Odd lighting | Check bright leaks behind dark walls | Light leaks often reveal false walls or secret gaps |
+| Empty dead-end | Revisit after jumping or crouching | A dead-end may hide a thin passage or trigger zone |
+
+<CardGrid cols={3}>
+  <Card title="Confirmed Space">
+    - **Repeatable entry**
+    - Clear boundaries
+    - Easy to screenshot
+  </Card>
+  <Card title="Suspected Space">
+    - **Looks unusual**
+    - Needs a second check
+    - Could disappear after updates
+  </Card>
+  <Card title="False Lead">
+    - **No entry path**
+    - Camera-only illusion
+    - Not worth over-trusting
+  </Card>
+</CardGrid>
+
+<Callout type="tip" title="Search Mindset">
+Start with places that feel “unfinished” in a good way: spare corners, blocked passages, low ceilings, and rooms that sit just outside the normal loop.
+</Callout>
+
+| Search Zone | Best First Action | Expected Payoff |
+| --- | --- | --- |
+| Spawn-adjacent corners | Walk the perimeter slowly | Fastest way to catch obvious odd geometry |
+| Stairs and ramps | Check under, behind, and beside them | Hidden room entrances often sit on level changes |
+| Decorative walls | Compare both sides of the same wall | False walls usually look different from one side |
+| Event-like spaces | Revisit after a server hop | Special spaces can appear only under certain conditions |
+
+</Section>
+
+<Section icon={Target} title="Search Routes and Scan Order">
+
+The safest way to hunt Country RNG 2 hidden rooms is to use a fixed scan order. If you search randomly, you will miss more than you find. If you search the same pattern every time, you can compare results across servers and updates.
+
+<Callout type="warning" title="Do Not Rush the Loop">
+Do not sprint through the map and call every wall a secret. Hidden-room hunting works better when you slow down near geometry changes and re-check the same spot from multiple angles.
+</Callout>
+
+<Steps>
+  <Step num="1" title="Start at the most public area">
+    Walk the main hub first. You want to learn the normal layout before you look for abnormal spaces. This makes later checks faster because you can spot what does not belong.
+  </Step>
+  <Step num="2" title="Move to edge zones">
+    Inspect boundaries, corners, and any area where the map seems to stop too early. Hidden rooms often sit close to the edge because the layout needs a place to hide a shortcut, trigger, or decorative chamber.
+  </Step>
+  <Step num="3" title="Check vertical layers">
+    Look above and below your eye line. A room can be tucked under ramps, behind stacked props, or just over a ledge that you cannot see from normal standing height.
+  </Step>
+  <Step num="4" title="Test the route twice">
+    Leave the area, re-enter it, and compare the result. If the space changes or becomes inaccessible after rejoining, log that detail instead of assuming the first result was wrong.
+  </Step>
+  <Step num="5" title="Write down the exact context">
+    Note the server, time, and any active progression state you had. In a game with rolling, upgrades, and events, context can matter more than the first screenshot.
+  </Step>
+</Steps>
+
+| Route Order | What You Look For | Best Use Case |
+| --- | --- | --- |
+| Public hub first | Obvious seams, unused corners | Quick baseline check |
+| Edge sweep second | Walls, ramps, dead ends | Most likely secret-entry zone |
+| Vertical sweep third | Ceilings, underpasses, ledges | Finds hidden height differences |
+| Re-entry test fourth | Persistent vs temporary spaces | Separates real rooms from glitches |
+
+<Callout type="info" title="Route Logic">
+A fixed route helps you compare servers and updates, especially if a patch moves props, closes gaps, or changes how the room can be accessed.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Proof Rules, Logs, and False Leads">
+
+If you want your hidden-room notes to be useful, proof comes before posting. A clean note should tell you where the room is, how you entered it, and whether you can repeat the result. That matters more than how exciting the discovery felt.
+
+<Callout type="success" title="Good Proof Wins">
+A boring but repeatable note is more useful than a flashy claim. If you can enter the space twice, you have something worth keeping.
+</Callout>
+
+| Evidence Level | What It Means | How Strong It Is |
+| --- | --- | --- |
+| Strong | Entered twice with the same route | Excellent |
+| Medium | Visible, but entry is unclear | Good |
+| Weak | Only seen from one angle | Limited |
+| Rumor | Someone mentioned it, but you cannot test it | Not ready |
+
+<Checklist
+  id="hidden-room-proof"
+  title="Proof Checklist:"
+  items={[
+    "Take one screenshot from outside the space",
+    "Take one screenshot from inside the space",
+    "Record the route you used to enter",
+    "Rejoin the server and test the route again",
+    "Save the time, server context, and map state"
+  ]}
+/>
+
+| Common Mistake | Better Check | Result |
+| --- | --- | --- |
+| Trusting a single clip | Recreate the path yourself | Fewer false positives |
+| Ignoring map updates | Re-scan after each patch | Better accuracy |
+| Posting vague claims | Add entry steps and screenshots | Easier community verification |
+| Confusing bugs with rooms | Test repeatability | Cleaner notes |
+
+<Callout type="warning" title="False Lead Filter">
+If a space only exists when your camera is clipped, blocked, or badly angled, treat it as a visual trick until you can reproduce it cleanly.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Why Hidden Rooms Matter in Country RNG 2">
+
+Hidden rooms are not only about secret bragging rights. In a Roblox RNG game, they can support map knowledge, update tracking, and event hunting. The more you understand the layout, the faster you can notice when something new appears after a patch.
+
+Country RNG 2 already revolves around rolling rare countries, upgrade-tree progress, and event moments. That makes secret spaces useful for players who like discovery and for players who want stronger map awareness. Hidden rooms may not give the same payoff for everyone, so use the time where it helps your playstyle most.
+
+<CardGrid cols={3}>
+  <Card title="Discovery Value">
+    - **Best for explorers**
+    - Fun to document
+    - Strong screenshot material
+  </Card>
+  <Card title="Route Value">
+    - **Good for speed**
+    - Helps you memorize layouts
+    - Makes update changes easier to spot
+  </Card>
+  <Card title="Community Value">
+    - **Useful for sharing**
+    - Easy to compare notes
+    - Better when proof is clear
+  </Card>
+</CardGrid>
+
+| Hidden Room Type | Best Use | Priority |
+| --- | --- | --- |
+| Decorative secret | Photos, clips, sharing | Medium |
+| Shortcut-style space | Movement testing | High |
+| Event-linked room | Timing and update checks | High |
+| Pure visual illusion | Ignore unless repeatable | Low |
+
+The best habit is simple: check, log, repeat, then share. If you want to follow official changes while you hunt, keep the Roblox game page and the developer community page in your bookmarks. That saves time when a new update shifts the layout.
+
+<Callout type="tip" title="Best Practice">
+Treat every secret as temporary until you have proof. In live Roblox games, a room that exists today can be moved, renamed, or blocked tomorrow.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="FAQ">
+
+<Callout type="info" title="FAQ">
+These answers focus on practical hidden-room hunting, not rumor chasing.
+</Callout>
+
+<FAQ items={[
+  {
+    question: "What is the best way to find country rng 2 hidden rooms?",
+    answer: "Use a fixed scan route: public hub first, edge zones second, then vertical checks and re-entry tests. That gives you a repeatable method and makes hidden spaces easier to verify."
+  },
+  {
+    question: "Should I trust a single screenshot or clip?",
+    answer: "Not by itself. A single image can show a camera angle, a bug, or a one-time glitch. Try to enter the space again and save proof from both outside and inside."
+  },
+  {
+    question: "Do hidden rooms in Country RNG 2 usually stay the same after updates?",
+    answer: "Not always. Roblox experiences can change layout details, block entrances, or move props during updates, so rescan after major changes and compare notes with your earlier run."
+  },
+  {
+    question: "Is there a fast way to tell a real room from a false lead?",
+    answer: "Check repeatability. If you can reach the space twice with the same route, it is much more likely to be real. If it only appears at one angle, treat it as a false lead."
+  }
+]} />
+
+<Callout type="success" title="Final Takeaway">
+The strongest hidden-room hunters are organized, patient, and exact. Use the same route, collect clean proof, and only publish what you can repeat.
+</Callout>
+
+</Section>
