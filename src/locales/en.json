@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Country RNG 2 Wiki - Codes, Countries & Upgrade Guide",
+      "description": "Country RNG 2 Wiki for Roblox players: find rare countries, roll chances, luck upgrades, events, codes, gamepasses, and beginner tips in one place.",
+      "keywords": "Country RNG 2, Roblox, codes, countries, roll chances, luck upgrades, events",
+      "ogTitle": "Country RNG 2 Wiki - Codes, Countries & Upgrade Guide",
+      "ogDescription": "Country RNG 2 Wiki for Roblox players: find rare countries, roll chances, luck upgrades, events, codes, gamepasses, and beginner tips in one place.",
+      "twitterTitle": "Country RNG 2 Wiki - Codes, Countries & Upgrade Guide",
+      "twitterDescription": "Country RNG 2 Wiki for Roblox: rare countries, roll chances, luck upgrades, events, codes, gamepasses, and beginner tips."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Roblox Flag-Rolling RNG Simulator",
+    "title": "Country RNG 2 Wiki",
+    "description": "Roll for rare countries, flex huge flags, progress through the upgrade tree, boost your luck, and track rare events in Country RNG 2 on Roblox.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "383K+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "860",
+        "label": "Players Online"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "3.4K",
+        "label": "Peak CCU"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "88.86%",
+        "label": "User Rating"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Ready to Roll in Country RNG 2?",
+    "description": "Join the Retrobyte Games community on Discord for new codes, rare-country alerts, upgrade-tree tips, and update discussions!",
     "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Country RNG 2 Wiki",
+    "description": "Your complete resource hub for Country RNG 2 codes, countries, rarities, luck upgrades, gamepasses, events, and update guides on Roblox.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "robloxGame": "Roblox Game",
+    "robloxGroup": "Roblox Group",
+    "youtube": "YouTube",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Country RNG 2 Wiki. Not affiliated with Retrobyte Gamess.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
