@@ -1,11 +1,928 @@
 {
+  "seo": {
+    "home": {
+      "title": "Wiki de Country RNG 2 - Códigos, Países y Guía de Mejoras",
+      "description": "Wiki de Country RNG 2 para jugadores de Roblox: encuentra países raros, probabilidades de giro, mejoras de suerte, eventos, códigos, gamepasses y consejos para principiantes en un solo lugar.",
+      "keywords": "Country RNG 2, Roblox, códigos, países, probabilidades de giro, mejoras de suerte, eventos",
+      "ogTitle": "Wiki de Country RNG 2 - Códigos, Países y Guía de Mejoras",
+      "ogDescription": "Wiki de Country RNG 2 para jugadores de Roblox: encuentra países raros, probabilidades de giro, mejoras de suerte, eventos, códigos, gamepasses y consejos para principiantes en un solo lugar.",
+      "twitterTitle": "Wiki de Country RNG 2 - Códigos, Países y Guía de Mejoras",
+      "twitterDescription": "Wiki de Country RNG 2 para Roblox: países raros, probabilidades de giro, mejoras de suerte, eventos, códigos, gamepasses y consejos para principiantes."
+    }
+  },
   "nav": {
     "codes": "Códigos",
     "guide": "Guía",
     "countries": "Países",
-    "tierList": "Lista de Tiers",
+    "tierList": "Lista de Niveles",
     "events": "Eventos",
     "badges": "Insignias",
-    "rooms": "Salas"
+    "rooms": "Habitaciones"
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de Country RNG 2",
+      "description": "Sigue los últimos códigos de Country RNG 2 para obtener recompensas gratuitas, potenciadores y bonificaciones de tiempo limitado, con pasos de canje y una lista de caducados para mantener tu inventario limpio.",
+      "metaTitle": "Códigos de Country RNG 2 - Recompensas Gratis y Guía de Canje",
+      "metaDescription": "Obtén los últimos códigos de Country RNG 2 para recompensas gratuitas, potenciadores de suerte y bonificaciones de tiempo limitado. Consulta los códigos activos, los pasos de canje y la lista de caducados.",
+      "categoryLabel": "CANJEAR CÓDIGOS",
+      "whatIs": "¿Qué son los códigos de Country RNG 2?",
+      "whatIsDescription": "Los códigos de Country RNG 2 son códigos de canje promocionales lanzados por Retrobyte Gamess a través de la página oficial de Roblox, la comunidad de Retrobyte Gamess y el canal social @RetrobyteG. Cuando se publica un código, puede otorgar recompensas gratuitas como potenciadores, dinero o bonificaciones de tiempo limitado que apoyan tu progreso al girar por países.",
+      "why": "¿Por qué canjear códigos de Country RNG 2?",
+      "whySteps": {
+        "step1Title": "Reclama potenciadores de progreso gratuitos",
+        "step1Description": "Los códigos activos pueden otorgar potenciadores o recursos gratuitos que aceleran tu ciclo de giros de países sin gastar Robux.",
+        "step2Title": "Consigue recompensas de tiempo limitado",
+        "step2Description": "Los códigos suelen lanzarse cerca de actualizaciones, hitos o eventos de la comunidad, por lo que canjearlos pronto te ayuda a no perderte las recompensas de tiempo limitado.",
+        "step3Title": "Mantente al tanto de las actualizaciones",
+        "step3Description": "Los nuevos códigos suelen seguir a los parches y eventos, así que volver a consultar regularmente te mantiene listo para nuevas recompensas antes de que la búsqueda de giros raros se intensifique."
+      },
+      "featured": "Códigos destacados",
+      "all": "Todos los códigos"
+    },
+    "guide": {
+      "title": "Guía de Country RNG 2",
+      "description": "Guías completas de Country RNG 2 que cubren pasos para principiantes, el ciclo de giros, cómo aumentar la suerte, el orden de las mejoras y consejos para buscar países raros en Roblox.",
+      "metaTitle": "Guía de Country RNG 2 - Consejos para Principiantes, Suerte y Mejoras",
+      "metaDescription": "Domina Country RNG 2 con guías para principiantes, estrategias de suerte, el orden del árbol de mejoras y consejos para girar países raros en esta experiencia RNG de Roblox.",
+      "categoryLabel": "GUÍAS",
+      "whatIs": "¿Qué es la guía de Country RNG 2?",
+      "whatIsDescription": "La sección de la guía de Country RNG 2 explica cómo funciona el ciclo principal de giros: gira por países, colecciona banderas, progresa en el árbol de mejoras y persigue eventos de países raros. Cubre los primeros pasos para principiantes, el aumento de la suerte, la prioridad de las mejoras y consejos avanzados para que dejes de desperdiciar giros y comiences a progresar con un plan claro.",
+      "why": "¿Por qué leer la guía de Country RNG 2?",
+      "whySteps": {
+        "step1Title": "Comienza con un ciclo de giros claro",
+        "step1Description": "Comprende el ciclo básico de girar, coleccionar, comparar rarezas y buscar mejores banderas para que tus primeras sesiones se enfoquen en el progreso a largo plazo en lugar de girar al azar.",
+        "step2Title": "Mejora tu suerte de la forma correcta",
+        "step2Description": "Aprende cómo la suerte, el árbol de mejoras y la velocidad de giro funcionan juntos para impulsarte hacia países raros y los momentos de evento que activan.",
+        "step3Title": "Evita desperdiciar recursos",
+        "step3Description": "Sigue el orden de mejoras y los consejos de sincronización de potenciadores para gastar dinero, oro y pociones en los sistemas que realmente hacen progresar tu cuenta."
+      },
+      "featured": "Guías destacadas",
+      "all": "Todas las guías"
+    },
+    "countries": {
+      "title": "Países de Country RNG 2",
+      "description": "Explora cada país, bandera y nivel de rareza obtenible en Country RNG 2, además de los objetivos de países raros a conseguir y una lista completa de países.",
+      "metaTitle": "Países y banderas de Country RNG 2 - Lista completa de países",
+      "metaDescription": "Explora la lista completa de países, banderas y niveles de rareza de Country RNG 2. Encuentra países raros, objetivos a conseguir y completa tu colección de banderas.",
+      "categoryLabel": "PAÍSES",
+      "whatIs": "¿Qué son los países en Country RNG 2?",
+      "whatIsDescription": "Los países son el coleccionable principal en Country RNG 2. Cada giro produce un país con su bandera nacional, y los países raros son el principal objetivo a conseguir que puede activar momentos de eventos especiales dentro del juego. Tu meta es completar la colección mientras buscas banderas más raras a través del árbol de mejoras y la suerte.",
+      "why": "¿Por qué hacer un seguimiento de los países?",
+      "whySteps": {
+        "step1Title": "Busca giros de países raros",
+        "step1Description": "Los países raros son los resultados de mayor valor en el ciclo de giros, y conseguir uno al girar puede activar momentos de exhibición en eventos que vale la pena grabar.",
+        "step2Title": "Completa tu colección de banderas",
+        "step2Description": "Hacer un seguimiento de la lista de países te ayuda a ver qué banderas ya posees y qué objetivos raros aún faltan en tu colección.",
+        "step3Title": "Planifica tu ruta de mejoras",
+        "step3Description": "Saber qué países son raros te permite enfocar tu suerte, velocidad de giro y progreso en el árbol de mejoras en los resultados que realmente importan."
+      },
+      "featured": "Países destacados",
+      "all": "Todos los países"
+    },
+    "tier-list": {
+      "title": "Tier list de Country RNG 2",
+      "description": "Tier list de Country RNG 2 que clasifica los países y los objetivos de progresión por rareza, valor de exhibición, impacto en el crecimiento y eficiencia de recursos.",
+      "metaTitle": "Tier list de Country RNG 2 - Clasificación de los mejores países y objetivos",
+      "metaDescription": "Consulta la tier list de Country RNG 2 para ver los mejores países, objetivos de progresión y mejoras clasificados por rareza, valor e impacto en el crecimiento.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "¿Qué es la tier list de Country RNG 2?",
+      "whatIsDescription": "La tier list de Country RNG 2 clasifica los países, los objetivos de giro y los sistemas de progresión según lo que realmente afecta a tu cuenta: la dificultad por rareza, el valor de exhibición de las banderas, el crecimiento en el árbol de mejoras, la velocidad de giro y la obtención de recursos. Cada nivel explica los criterios de ordenación para que la clasificación siga siendo práctica en lugar de subjetiva.",
+      "why": "¿Por qué usar la tier list?",
+      "whySteps": {
+        "step1Title": "Enfócate en objetivos reales a conseguir",
+        "step1Description": "Los niveles superiores destacan los países raros y los sistemas de progresión que generan el mayor valor a largo plazo.",
+        "step2Title": "Gasta tus recursos de manera eficiente",
+        "step2Description": "Usa los criterios de cada nivel para decidir qué mejoras, pases y potenciadores vale la pena priorizar en tu etapa actual.",
+        "step3Title": "Evita trampas de poco valor",
+        "step3Description": "Los niveles inferiores muestran qué resultados y elecciones son principalmente de relleno para la colección, para que no pierdas tiempo persiguiendo objetivos de bajo impacto."
+      },
+      "featured": "Niveles destacados",
+      "all": "Todas las entradas de la tier list"
+    },
+    "events": {
+      "title": "Eventos de Country RNG 2",
+      "description": "Eventos y activadores de giros raros en Country RNG 2, incluyendo actividades de temporada, actualizaciones por tiempo limitado y qué sucede cuando aparece un país raro.",
+      "metaTitle": "Eventos de Country RNG 2 - Tiradas raras y actualizaciones en vivo",
+      "metaDescription": "Rastrea los eventos de Country RNG 2, los activadores de tiradas raras, las actividades de temporada y las actualizaciones en vivo para que nunca te pierdas un momento destacado o un evento por tiempo limitado.",
+      "categoryLabel": "EVENTOS",
+      "whatIs": "¿Qué son los eventos de Country RNG 2?",
+      "whatIsDescription": "Country RNG 2 usa tiradas raras como activadores de eventos: cuando te toca un país raro en una tirada, el juego resalta un momento de evento genial. Los eventos también cubren actividades de temporada, actualizaciones por tiempo limitado y actividad de parches en vivo rastreada desde la página oficial de Roblox y la comunidad de Retrobyte Gamess.",
+      "why": "¿Por qué seguir los eventos de Country RNG 2?",
+      "whySteps": {
+        "step1Title": "Atrapa los momentos de tiradas raras",
+        "step1Description": "Los eventos de países raros son momentos destacados que vale la pena grabar, y conocer los activadores te ayuda a reconocerlos y guardarlos.",
+        "step2Title": "Mantente al tanto del contenido de temporada",
+        "step2Description": "Los eventos de temporada y las actividades por tiempo limitado a menudo traen nuevos países, potenciadores o recompensas que desaparecen después de que termina el evento.",
+        "step3Title": "Sigue las actualizaciones en vivo",
+        "step3Description": "Seguir los canales de actualizaciones te mantiene informado sobre nuevos mapas, pases y cambios que afectan las tiradas y la progresión."
+      },
+      "featured": "Eventos destacados",
+      "all": "Todos los eventos"
+    },
+    "badges": {
+      "title": "Emblemas de Country RNG 2",
+      "description": "Emblemas de Country RNG 2 y logros secretos, incluyendo cómo ganar emblemas ocultos, emblemas de códigos secretos y metas rastreadas por la comunidad.",
+      "metaTitle": "Emblemas de Country RNG 2 - Guía de emblemas secretos y ocultos",
+      "metaDescription": "Encuentra cada emblema de Country RNG 2, incluyendo emblemas de códigos secretos, logros ocultos y metas rastreadas por la comunidad con pasos claros para desbloquearlos.",
+      "categoryLabel": "EMBLEMAS",
+      "whatIs": "¿Qué son los emblemas de Country RNG 2?",
+      "whatIsDescription": "Los emblemas de Country RNG 2 son logros coleccionables que marcan metas específicas, desafíos ocultos o desbloqueos de códigos secretos. Algunos emblemas están vinculados a habitaciones secretas y códigos de cuevas, mientras que otros recompensan la exploración y los objetivos rastreados por la comunidad. La caza de emblemas añade objetivos de finalización a largo plazo más allá del ciclo principal de tiradas.",
+      "why": "¿Por qué cazar emblemas de Country RNG 2?",
+      "whySteps": {
+        "step1Title": "Desbloquea logros secretos",
+        "step1Description": "Los emblemas ocultos y de códigos secretos recompensan a los jugadores que exploran habitaciones secretas, introducen códigos de cuevas y miran más allá del ciclo principal de tiradas.",
+        "step2Title": "Rastrea metas de finalización",
+        "step2Description": "Los emblemas te dan objetivos a largo plazo que miden tu progreso y dedicación más allá de simplemente coleccionar banderas.",
+        "step3Title": "Sigue los descubrimientos de la comunidad",
+        "step3Description": "Muchos emblemas son encontrados y verificados primero por la comunidad, por lo que seguir las guías de emblemas te mantiene al día sobre los nuevos desbloqueos."
+      },
+      "featured": "Emblemas destacados",
+      "all": "Todos los emblemas"
+    },
+    "rooms": {
+      "title": "Habitaciones secretas de Country RNG 2",
+      "description": "Habitaciones secretas de Country RNG 2 y ubicaciones de códigos de cuevas, incluyendo los pasos para entrar a habitaciones ocultas, códigos de cuevas y causas comunes de fallo.",
+      "metaTitle": "Habitaciones secretas y códigos de cuevas de Country RNG 2 - Guía de ubicaciones",
+      "metaDescription": "Encuentra cada habitación secreta de Country RNG 2, código de cueva oculto y paso de entrada. Guía completa de ubicaciones de habitaciones secretas y entradas de códigos de cuevas.",
+      "categoryLabel": "HABITACIONES SECRETAS",
+      "whatIs": "¿Qué son las habitaciones secretas en Country RNG 2?",
+      "whatIsDescription": "Las habitaciones secretas en Country RNG 2 son áreas ocultas que requieren códigos de cuevas o acciones específicas para entrar. A menudo contienen desbloqueos de emblemas, huevos de pascua o encuentros especiales vinculados a los sistemas de colección y tiradas raras del juego. La mayoría de las habitaciones secretas son descubiertas por la comunidad y verificadas a través de la jugabilidad.",
+      "why": "¿Por qué explorar las habitaciones secretas?",
+      "whySteps": {
+        "step1Title": "Desbloquea contenido exclusivo",
+        "step1Description": "Las habitaciones secretas a menudo ocultan emblemas, huevos de pascua y encuentros que no están disponibles a través de las tiradas normales.",
+        "step2Title": "Usar códigos de cueva verificados",
+        "step2Description": "Sigue las ubicaciones de códigos de cueva verificadas por la comunidad y los pasos de entrada para poder acceder a salas ocultas sin prueba y error.",
+        "step3Title": "Resolver problemas comunes de entrada",
+        "step3Description": "Las guías cubren las causas comunes de fallos y los requisitos previos, para que sepas exactamente qué hacer cuando un código o una puerta no funcionan."
+      },
+      "featured": "Salas destacadas",
+      "all": "Todas las salas secretas"
+    }
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Roblox",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que buscas no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "Simulador de RNG de giros de banderas de Roblox",
+    "title": "Wiki de Country RNG 2",
+    "description": "Tira para conseguir países raros, presume de banderas gigantes, progresa en el árbol de mejoras, aumenta tu suerte y sigue eventos raros en Country RNG 2 en Roblox.",
+    "getFreeCodesCTA": "Obtén códigos gratis",
+    "playOnRobloxCTA": "Jugar en Roblox",
+    "stats": {
+      "stat1": {
+        "value": "383K+",
+        "label": "Visitas totales"
+      },
+      "stat2": {
+        "value": "860",
+        "label": "Jugadores en línea"
+      },
+      "stat3": {
+        "value": "3.4K",
+        "label": "Pico de CCU"
+      },
+      "stat4": {
+        "value": "88.86%",
+        "label": "Valoración de los usuarios"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay de Country RNG 2",
+    "description": "Tira para conseguir países raros, presume de banderas gigantes, progresa en el árbol de mejoras, aumenta tu suerte y persigue eventos raros en esta experiencia de RNG en Roblox de Retrobyte Gamess."
+  },
+  "tools": {
+    "title": "Country RNG 2",
+    "titleHighlight": "Recursos",
+    "subtitle": "Códigos, países, rarezas, suerte, gamepasses, eventos e información del servidor en vivo para Country RNG 2 en Roblox.",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Códigos de Country RNG 2",
+        "description": "Códigos activos, lista de expirados, recompensas y pasos de canje."
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Guía para principiantes de Country RNG 2",
+        "description": "Primeros pasos, el bucle de tiros, rareza y orden de mejoras."
+      },
+      {
+        "icon": "Trophy",
+        "title": "Tier List de Country RNG 2",
+        "description": "Clasificación S/A/B/C por rareza, crecimiento y valor de recursos."
+      },
+      {
+        "icon": "Flag",
+        "title": "Países y rarezas de Country RNG 2",
+        "description": "Conjunto de tiros de países, banderas, rareza y dificultad."
+      },
+      {
+        "icon": "TreePine",
+        "title": "Árbol de suerte y mejoras de Country RNG 2",
+        "description": "Árbol de mejoras, suerte, velocidad de tiro, oro y pociones."
+      },
+      {
+        "icon": "ShoppingBag",
+        "title": "Gamepasses y potenciadores de Country RNG 2",
+        "description": "Pases de pago, precios, efectos y para quién son adecuados."
+      },
+      {
+        "icon": "PartyPopper",
+        "title": "Eventos y tiros raros de Country RNG 2",
+        "description": "Eventos de países raros, activadores y consejos de grabación."
+      },
+      {
+        "icon": "Server",
+        "title": "Actualizaciones y estado del servidor de Country RNG 2",
+        "description": "Enlace de Roblox, estadísticas, servidores y canales de actualización."
+      }
+    ]
+  },
+  "modules": {
+    "countryRng2Codes": {
+      "title": "Códigos de Country RNG 2",
+      "subtitle": "Consulta el estado actual de los códigos de Country RNG 2, las recompensas listadas, los pasos de canje y la última fecha de revisión.",
+      "intro": "Country RNG 2 es una experiencia de tiros de países en Roblox creada por Retrobyte Gamess donde los jugadores tiran por países, coleccionan banderas, progresan en el árbol de mejoras y persiguen eventos de países raros. Esta sección mantiene el estado de los códigos claro y fácil de revisar.",
+      "activeCodes": {
+        "heading": "Códigos activos",
+        "lastChecked": "2026-07-06",
+        "codes": [],
+        "emptyState": "No hay códigos de canje activos de Country RNG 2 listados en este momento."
+      },
+      "expiredCodes": {
+        "heading": "Códigos expirados",
+        "lastChecked": "2026-07-06",
+        "codes": [],
+        "emptyState": "No hay códigos de canje expirados de Country RNG 2 listados en este momento."
+      },
+      "listedRewards": {
+        "heading": "Recompensas de códigos listadas",
+        "rewards": [],
+        "emptyState": "No se muestran recompensas porque no hay códigos de canje listados en este momento."
+      },
+      "redeemSteps": {
+        "heading": "Cómo canjear códigos de Country RNG 2",
+        "steps": [
+          {
+            "step": 1,
+            "text": "Abre Country RNG 2 desde la página oficial de la experiencia en Roblox."
+          },
+          {
+            "step": 2,
+            "text": "Únete a un servidor y abre el menú del juego."
+          },
+          {
+            "step": 3,
+            "text": "Usa el panel de canje o de códigos cuando haya un código publicado disponible."
+          },
+          {
+            "step": 4,
+            "text": "Introduce el código exactamente como está escrito y envíalo para reclamar la recompensa listada."
+          }
+        ]
+      }
+    },
+    "countryRng2BeginnerGuide": {
+      "title": "Guía para principiantes de Country RNG 2",
+      "subtitle": "Aprende qué hacer primero, cómo funciona el bucle de tiros de países y qué sistemas de mejora son importantes al principio.",
+      "intro": "Country RNG 2 se basa en tirar por países, mostrar banderas grandes y progresar a través de un árbol de mejoras para obtener mejores resultados. Los nuevos jugadores deben centrarse primero en el bucle de tiros y luego usar mejoras y potenciadores con un objetivo claro en lugar de gastar recursos al azar.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comienza con el bucle de tiradas principal",
+          "instruction": "Únete a la experiencia oficial y comienza a tirar para obtener países. Tu primer objetivo es entender el bucle básico: tirar, coleccionar el país resultante, comparar su valor y seguir buscando mejores banderas.",
+          "mainSystems": [
+            "Tiradas de países",
+            "Colección de banderas",
+            "Búsqueda de países raros"
+          ],
+          "doNotDoFirst": "No consideres las primeras tiradas como tu configuración final. Las tiradas iniciales sirven principalmente para aprender el ritmo del juego."
+        },
+        {
+          "step": 2,
+          "title": "Usa la rareza como tu primera regla de clasificación",
+          "instruction": "Vigila los resultados de países raros, ya que los países raros son el objetivo principal y pueden crear momentos de tirada especiales. Una mejor rareza suele importar más que simplemente completar la colección rápidamente.",
+          "mainSystems": [
+            "Rareza",
+            "Valor del país",
+            "Banderas de exhibición"
+          ],
+          "doNotDoFirst": "No ignores las etiquetas de rareza al comparar países."
+        },
+        {
+          "step": 3,
+          "title": "Progresa a través del árbol de mejoras",
+          "instruction": "Aprovecha el progreso inicial en el árbol de mejoras, ya que el juego vincula directamente el avance del árbol con mejores banderas. Considera el árbol como tu camino principal a largo plazo en lugar de solo tirar sin mejorar tu cuenta.",
+          "mainSystems": [
+            "Árbol de mejoras",
+            "Mejores banderas",
+            "Progresión a largo plazo"
+          ],
+          "doNotDoFirst": "No gastes recursos iniciales sin comprobar si una mejora beneficia tus tiradas o tu progresión de banderas."
+        },
+        {
+          "step": 4,
+          "title": "Prioriza la suerte una vez que estés buscando países raros",
+          "instruction": "La suerte es una de las palancas de progresión más claras para los jugadores que quieren obtener países más raros. El pase SUERTE 2X listado demuestra que la suerte es una estadística importante para el bucle de búsqueda de países.",
+          "mainSystems": [
+            "Suerte",
+            "Tiradas de países raros",
+            "Mejores resultados de tiradas"
+          ],
+          "doNotDoFirst": "No te concentres solo en los cosméticos antes de mejorar los sistemas que te ayudan a conseguir mejores resultados."
+        },
+        {
+          "step": 5,
+          "title": "Usa la velocidad, el dinero y el oro como sistemas de apoyo",
+          "instruction": "Las tiradas más rápidas, las ganancias de dinero y las ganancias de oro apoyan la progresión al ayudarte a tirar con más frecuencia y acumular recursos más rápido. Los pases listados incluyen TIRADAS MÁS RÁPIDAS, 2X DINERO y 2X ORO, por lo que estos sistemas están vinculados al crecimiento de la cuenta.",
+          "mainSystems": [
+            "Velocidad de tirada",
+            "Dinero",
+            "Oro"
+          ],
+          "doNotDoFirst": "No compres ni actives todos los sistemas de apoyo a la vez antes de entender qué cuello de botella está frenando tu progreso."
+        },
+        {
+          "step": 6,
+          "title": "Trata las pociones como una capa de potenciación independiente",
+          "instruction": "Las tiradas de pociones son una capa de apoyo independiente, como lo muestra el pase TIRADA DE POCIÓN 3X listado. Utiliza el progreso relacionado con las pociones cuando tu camino básico de tiradas y el árbol de mejoras ya estén claros.",
+          "mainSystems": [
+            "Tiradas de pociones",
+            "Momento de los potenciadores",
+            "Apoyo a la progresión"
+          ],
+          "doNotDoFirst": "No gastes recursos de tipo potenciador antes de saber qué resultado estás intentando mejorar."
+        },
+        {
+          "step": 7,
+          "title": "Presta atención a los eventos de países raros",
+          "instruction": "El juego destaca eventos geniales cuando se consiguen países raros. Estos eventos son una señal de que el resultado es más importante que una tirada normal al principio del juego.",
+          "mainSystems": [
+            "Eventos de países raros",
+            "Momentos de exhibición",
+            "Hitos de colección"
+          ],
+          "doNotDoFirst": "No te saltes los comentarios del evento después de las tiradas raras; te ayuda a entender qué resultados vale la pena conservar o exhibir."
+        }
+      ]
+    },
+    "countryRng2TierList": {
+      "title": "Tier List de Country RNG 2",
+      "subtitle": "Una práctica cuadrícula de niveles para objetivos de tiradas de países y valor de progresión, ordenada por presión de rareza, valor de exhibición, valor de crecimiento e impacto de recursos.",
+      "intro": "Esta tier list está organizada por lo que realmente afecta el progreso en Country RNG 2: valor de búsqueda de países raros, valor de exhibición de banderas, crecimiento del árbol de mejoras, velocidad de tirada y ganancia de recursos. Cada nivel incluye la base de clasificación para que el ranking no finja que las vibras son ciencia, una rara piedad en las listas de juegos.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Mejores objetivos de búsqueda",
+          "criteria": [
+            "Mayor presión de rareza",
+            "Mayor valor de exhibición",
+            "Directamente vinculado a eventos de países raros o mejores tiradas a largo plazo"
+          ],
+          "entries": [
+            {
+              "name": "Tiradas de países raros",
+              "category": "Objetivo de tirada de países",
+              "basis": "Los países raros son el objetivo principal de búsqueda, y el juego destaca eventos especiales cuando se obtienen países raros en las tiradas.",
+              "valueTags": [
+                "Rareza",
+                "Exhibición",
+                "Valor de evento"
+              ]
+            },
+            {
+              "name": "Progresión centrada en la suerte",
+              "category": "Ruta de crecimiento",
+              "basis": "La suerte apoya directamente el objetivo de alcanzar mejores resultados de países, y SUERTE 2X es un pase de progresión catalogado.",
+              "valueTags": [
+                "Crecimiento",
+                "Soporte de rareza",
+                "Valor a largo plazo"
+              ]
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Progresión de alto valor",
+          "criteria": [
+            "Mejora el volumen de tiradas o el crecimiento de recursos",
+            "Apoya el progreso del árbol de mejoras",
+            "Útil después de comprender el ciclo básico de tiradas"
+          ],
+          "entries": [
+            {
+              "name": "Tiradas más rápidas",
+              "category": "Eficiencia de tiradas",
+              "basis": "El pase TIRADAS MÁS RÁPIDAS incluye una velocidad de tirada 1.5X más rápida, lo que lo hace valioso para los jugadores que quieren más intentos de tirada con el tiempo.",
+              "valueTags": [
+                "Velocidad",
+                "Eficiencia",
+                "Más intentos"
+              ]
+            },
+            {
+              "name": "Ganancias de efectivo",
+              "category": "Crecimiento de recursos",
+              "basis": "El pase EFECTIVO 2X duplica las ganancias de efectivo, lo que apoya la progresión y la actividad del árbol de mejoras.",
+              "valueTags": [
+                "Efectivo",
+                "Soporte de mejoras",
+                "Crecimiento"
+              ]
+            },
+            {
+              "name": "Ganancias de oro",
+              "category": "Crecimiento de recursos",
+              "basis": "El pase 2X GOLD duplica el oro ganado, lo que le da un gran valor cuando el oro es parte del cuello de botella actual del jugador.",
+              "valueTags": [
+                "Oro",
+                "Ganancia de recursos",
+                "Soporte de mejoras"
+              ]
+            }
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Opciones de soporte útiles",
+          "criteria": [
+            "Bueno una vez que el jugador tiene un objetivo claro",
+            "Útil pero no es la búsqueda principal de países",
+            "Se aprovecha mejor con una progresión planificada"
+          ],
+          "entries": [
+            {
+              "name": "Volumen de tiradas de pociones",
+              "category": "Capa de potenciadores",
+              "basis": "El pase 3X POTION ROLL aumenta el volumen de tiradas de poción, haciéndolo útil como un sistema de soporte en lugar de la prioridad principal al inicio del juego.",
+              "valueTags": [
+                "Pociones",
+                "Soporte de potenciadores",
+                "Valor temporal"
+              ]
+            },
+            {
+              "name": "Starter Pack",
+              "category": "Paquete inicial",
+              "basis": "El Starter Pack listado es un paquete de nivel de entrada, útil para comenzar a progresar pero menos central que las tiradas de países raros, la suerte y el crecimiento de mejoras principales.",
+              "valueTags": [
+                "Valor inicial",
+                "Progreso temprano",
+                "Soporte de entrada"
+              ]
+            }
+          ]
+        },
+        {
+          "tier": "C",
+          "label": "Valor de colección básico",
+          "criteria": [
+            "Útil para llenar el espacio inicial de la colección",
+            "Menor valor de exhibición que los resultados de países raros",
+            "Sirve principalmente para aprender el ciclo de tiradas"
+          ],
+          "entries": [
+            {
+              "name": "Tiradas de países estándar",
+              "category": "Resultado de país básico",
+              "basis": "Las tiradas de países normales son útiles para comenzar la colección, pero el ciclo del juego claramente empuja a los jugadores hacia países más raros y mejores banderas.",
+              "valueTags": [
+                "Relleno de colección",
+                "Aprendizaje temprano",
+                "Bajo valor de búsqueda"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "countryRng2CountriesAndRarities": {
+      "title": "Países y rarezas de Country RNG 2",
+      "subtitle": "Explora la estructura actual de tiradas de países, los tipos de visualización de banderas, el rol de rareza, la dificultad, la fuente de la versión y las notas de juego.",
+      "intro": "Country RNG 2 se centra en tirar para obtener países, mostrar banderas grandes, progresar a través del árbol de mejoras y buscar eventos de países raros. Usa esta tabla como un índice principal para la estructura de países y rarezas que se muestra actualmente.",
+      "rows": [
+        {
+          "country": "Todos los países obtenibles en tiradas",
+          "flag": "Banderas nacionales",
+          "rarity": "Reserva de tiradas de países",
+          "difficulty": "Línea base",
+          "versionSource": "Iniciar experiencia",
+          "notes": "Los países son el resultado coleccionable principal en el bucle de tiradas principal."
+        },
+        {
+          "country": "Países raros",
+          "flag": "Banderas nacionales grandes",
+          "rarity": "Resultado de país raro",
+          "difficulty": "Alto",
+          "versionSource": "Iniciar experiencia",
+          "notes": "Las tiradas de países raros son el objetivo de búsqueda principal y pueden activar momentos de eventos especiales en el juego."
+        },
+        {
+          "country": "Australia",
+          "flag": "🇦🇺",
+          "rarity": "Resultado de país",
+          "difficulty": "Objetivo de exhibición",
+          "versionSource": "Referencia de jugabilidad",
+          "notes": "Destacado en la cobertura de jugabilidad de Country RNG 2 y adecuado para filtrar por nombre de país."
+        },
+        {
+          "country": "Mejores banderas vinculadas a mejoras",
+          "flag": "Banderas mejoradas",
+          "rarity": "Resultado de progresión",
+          "difficulty": "Dependiente del árbol de mejoras",
+          "versionSource": "Iniciar experiencia",
+          "notes": "El árbol de mejoras se utiliza para progresar hacia mejores banderas."
+        }
+      ]
+    },
+    "countryRng2LuckAndUpgradeTree": {
+      "title": "Suerte y árbol de mejoras de Country RNG 2",
+      "subtitle": "Planifica en torno a la progresión gratuita primero: obtén países al tirar, avanza por el árbol de mejoras y luego añade potenciadores que mejoren la suerte, el volumen de tiradas, el dinero, el oro o la producción de pociones.",
+      "intro": "Country RNG 2 se basa en obtener países raros al tirar, mostrar banderas grandes, progresar a través del árbol de mejoras para conseguir mejores banderas y activar eventos a partir de tiradas raras. La mejor ruta inicial es mejorar el bucle principal antes de añadir potenciadores de pago opcionales.",
+      "cards": [
+        {
+          "label": "Prioridad para principiantes",
+          "effect": "Primero el árbol de mejoras, luego la suerte, después la velocidad de tirada, y por último los ingresos y la producción de pociones.",
+          "whatItChanges": "Este orden mejora el bucle principal de tiradas y mejoras antes de centrarse en los potenciadores secundarios.",
+          "howToUse": "Comienza con el progreso gratuito de las tiradas habituales y el avance en el árbol de mejoras. Añade potenciadores de pago solo cuando sientas que vale la pena acelerar el bucle principal.",
+          "priority": "1"
+        },
+        {
+          "label": "Árbol de mejoras",
+          "effect": "Ruta de progresión principal para obtener mejores banderas.",
+          "whatItChanges": "Progresión de banderas y crecimiento de la cuenta a largo plazo.",
+          "howToUse": "Usa las ganancias iniciales en el árbol de mejoras antes de centrarte en acumular potenciadores a corto plazo.",
+          "priority": "1"
+        },
+        {
+          "label": "Suerte",
+          "effect": "Mejora la búsqueda de tiradas raras.",
+          "whatItChanges": "Resultados de países raros; el pase de pago de 2X Luck duplica la suerte.",
+          "howToUse": "Prioriza la suerte al buscar países más raros o tiradas que activen eventos.",
+          "priority": "2"
+        },
+        {
+          "label": "Velocidad de tirada",
+          "effect": "Aumenta el volumen de tiradas.",
+          "whatItChanges": "Más intentos durante la misma sesión de juego; el pase de Tiradas más rápidas otorga una velocidad de tirada 1.5X más rápida.",
+          "howToUse": "Mejora la velocidad de tirada después del progreso básico de suerte, especialmente para sesiones más largas.",
+          "priority": "3"
+        },
+        {
+          "label": "Dinero",
+          "effect": "Acelera las ganancias de dinero.",
+          "whatItChanges": "Ingresos de dinero; el pase 2X Dinero duplica las ganancias de dinero.",
+          "howToUse": "Concéntrate en el dinero cuando los costos del árbol de mejoras estén ralentizando tu siguiente paso.",
+          "priority": "4"
+        },
+        {
+          "label": "Oro",
+          "effect": "Acelera el oro ganado.",
+          "whatItChanges": "Ingresos de oro; el pase 2X Oro duplica el oro ganado.",
+          "howToUse": "Concéntrate en el oro cuando tu siguiente progreso útil en el juego dependa del oro.",
+          "priority": "4"
+        },
+        {
+          "label": "Tirada de pociones",
+          "effect": "Aumenta la producción de pociones.",
+          "whatItChanges": "Volumen de tiradas de pociones; el pase 3X Tirada de pociones tira 3X más pociones.",
+          "howToUse": "Trata la tirada de pociones como una capa de mejora posterior después de que la suerte básica, la velocidad y la ruta del árbol de mejoras estén en marcha.",
+          "priority": "5"
+        }
+      ]
+    },
+    "countryRng2GamepassesAndBoosts": {
+      "title": "Pases de juego y mejoras de Country RNG 2",
+      "subtitle": "Estos pases aceleran partes específicas del ciclo, pero la ruta gratuita sigue existiendo a través de las tiradas, las ganancias y el progreso en el árbol de mejoras.",
+      "intro": "Country RNG 2 vende pases de mejora directa para suerte, dinero, velocidad de tirada, oro, tiradas de pociones y un paquete de inicio. Las mejoras de pago son herramientas de aceleración en lugar de compras obligatorias.",
+      "rows": [
+        {
+          "pass": "2X SUERTE",
+          "priceRobux": 229,
+          "officialEffect": "Duplica tu suerte.",
+          "freePath": "Tira normalmente y progresa a través del árbol de mejoras.",
+          "bestFor": "Jugadores enfocados en países raros y eventos de tiradas raras.",
+          "valueNote": "La mejor mejora de pago directa enfocada en las probabilidades.",
+          "storeUpdate": "Actualizado hace 1 mes"
+        },
+        {
+          "pass": "2X DINERO",
+          "priceRobux": 99,
+          "officialEffect": "Duplica tus ganancias de dinero.",
+          "freePath": "Gana dinero jugando normalmente y gástalo con cuidado en mejoras.",
+          "bestFor": "Jugadores que quieren gastar más rápido en el árbol de mejoras.",
+          "valueNote": "Aceleración de ingresos de bajo costo.",
+          "storeUpdate": "Actualizado hace 1 mes"
+        },
+        {
+          "pass": "TIRADAS MÁS RÁPIDAS",
+          "priceRobux": 139,
+          "officialEffect": "Velocidad de tirada 1.5X más rápida.",
+          "freePath": "Sigue tirando y mejora la progresión principal primero.",
+          "bestFor": "Jugadores de sesiones largas que quieren más intentos por minuto.",
+          "valueNote": "Aumenta el volumen de tiradas, no las probabilidades de cada tirada individual.",
+          "storeUpdate": "Actualizado hace 1 mes"
+        },
+        {
+          "pass": "PAQUETE DE INICIO",
+          "priceRobux": 15,
+          "officialEffect": "Compra del paquete de inicio.",
+          "freePath": "Comienza normalmente y aprende el ciclo antes de gastar.",
+          "bestFor": "Jugadores de primera sesión que quieren la compra más barata listada.",
+          "valueNote": "El objeto de pago más barato listado.",
+          "storeUpdate": "Actualizado hace 5 días"
+        },
+        {
+          "pass": "2X ORO",
+          "priceRobux": 159,
+          "officialEffect": "Duplica el oro ganado.",
+          "freePath": "Gana oro a través de la progresión normal.",
+          "bestFor": "Jugadores cuyas próximas mejoras dependen de los ingresos de oro.",
+          "valueNote": "Útil después de que el oro se convierta en parte del camino de progreso principal.",
+          "storeUpdate": "Actualizado hace 16 horas"
+        },
+        {
+          "pass": "3X TIRO DE POCIÓN",
+          "priceRobux": 129,
+          "officialEffect": "Obtén 3 veces más pociones al tirar.",
+          "freePath": "Usa tiros de pociones normales y mejoras principales.",
+          "bestFor": "Jugadores que usan pociones activamente como parte de su plan de tiros.",
+          "valueNote": "Potenciador centrado en pociones, no es un requisito general para principiantes.",
+          "storeUpdate": "Actualizado hace 1 semana"
+        }
+      ]
+    },
+    "countryRng2EventsAndRareRolls": {
+      "title": "Eventos y Tiros Raros de Country RNG 2",
+      "subtitle": "Los países raros no son solo trofeos: Country RNG 2 utiliza los tiros raros como activadores de eventos, por lo que el momento después de un tiro raro importa.",
+      "intro": "El juego destaca eventos al tirar países raros, y la cobertura en video muestra momentos de eventos específicos de países como Australia. Usa este módulo como una lista de verificación simple para reconocer activadores de tiros raros y registrar el resultado.",
+      "cards": [
+        {
+          "event": "Evento de Tiro de País Raro",
+          "trigger": "Tirar un país raro.",
+          "eventSignal": "Un momento de evento especial puede aparecer después del tiro raro.",
+          "rewardType": "País raro, valor de exhibición de bandera y encuentro de evento.",
+          "playerSteps": [
+            "Deja que el momento del evento termine.",
+            "Revisa el país o la bandera que obtuviste.",
+            "Captura una captura de pantalla o un clip antes de continuar."
+          ]
+        },
+        {
+          "event": "Evento Específico de País",
+          "trigger": "Un tiro raro vinculado a un país con nombre.",
+          "eventSignal": "Un video de Country RNG 2 centrado en Australia muestra un momento de evento con nombre de país.",
+          "rewardType": "Momento de tiro raro con temática de país.",
+          "playerSteps": [
+            "Registra el nombre del país.",
+            "Anota los potenciadores activos.",
+            "Guarda el servidor y la marca de tiempo para tu propio registro de tiros."
+          ]
+        },
+        {
+          "event": "Configuración para Caza de Eventos",
+          "trigger": "Preparándose para una sesión larga de tiros raros.",
+          "eventSignal": "La suerte apoya la caza de tiros raros, la velocidad de tiro aumenta el volumen de intentos y el tiro de poción aumenta la producción de pociones.",
+          "rewardType": "Más oportunidades de alcanzar momentos de tiros raros.",
+          "playerSteps": [
+            "Progresa primero en el árbol de mejoras.",
+            "Usa la suerte antes que la velocidad pura al buscar resultados raros.",
+            "Usa giros de poción cuando las pociones sean parte del plan de la sesión."
+          ]
+        },
+        {
+          "event": "Registro de giros raros",
+          "trigger": "Cualquier bandera rara, país raro o indicación de evento.",
+          "eventSignal": "Aparece un país raro o el juego muestra un momento de evento.",
+          "rewardType": "Prueba clara para compartir, rastrear y comparar giros posteriores.",
+          "playerSteps": [
+            "Captura el nombre del país.",
+            "Captura la bandera visible o la pantalla de evento.",
+            "Anota la hora, los potenciadores y el contexto del servidor."
+          ]
+        },
+        {
+          "event": "Eventos vs. Emblemas",
+          "trigger": "Comprobando si los eventos raros también cuentan como emblemas de Roblox.",
+          "eventSignal": "Rolimon's no muestra emblemas conocidos para Country RNG 2 en la comprobación de datos del 6 de julio de 2026.",
+          "rewardType": "Seguimiento de eventos de juego en lugar del progreso de la lista de verificación de emblemas.",
+          "playerSteps": [
+            "Rastrea los eventos manualmente.",
+            "Usa capturas de pantalla y clips como tu registro.",
+            "Consulta la página oficial del juego después de las actualizaciones."
+          ]
+        }
+      ]
+    },
+    "countryRng2UpdatesAndServerStatus": {
+      "title": "Actualizaciones y estado del servidor de Country RNG 2",
+      "subtitle": "Usa esta sección para el enlace de juego de Roblox, la comunidad de creadores, los canales de actualización, las estadísticas de los jugadores, la salud del servidor y las comprobaciones rápidas de estado.",
+      "intro": "Country RNG 2 figura como una experiencia de Roblox de Retrobyte Gamess con servidores de 25 jugadores, actividad de actualización reciente, servidores públicos activos y sin emblemas conocidos en la comprobación de datos del 6 de julio de 2026.",
+      "sections": [
+        {
+          "section": "Acceso oficial",
+          "summary": "Lugares principales para jugar, seguir y verificar el juego.",
+          "details": [
+            {
+              "label": "Página de juego de Roblox",
+              "value": "https://www.roblox.com/games/93994609252204/Country-RNG-2"
+            },
+            {
+              "label": "Creador",
+              "value": "Retrobyte Gamess"
+            },
+            {
+              "label": "Comunidad de Roblox",
+              "value": "https://www.roblox.com/communities/33245554/Retrobyte-Gamess"
+            },
+            {
+              "label": "Red social oficial",
+              "value": "https://x.com/RetrobyteG"
+            }
+          ]
+        },
+        {
+          "section": "Resumen del juego",
+          "summary": "Metadatos principales del juego de la comprobación de datos del 6 de julio de 2026.",
+          "details": [
+            {
+              "label": "Título del juego",
+              "value": "[⭐️ NUEVO] Country RNG 2"
+            },
+            {
+              "label": "Género",
+              "value": "Todos"
+            },
+            {
+              "label": "Creado",
+              "value": "Hace 1 mes"
+            },
+            {
+              "label": "Máximo de jugadores",
+              "value": "25"
+            },
+            {
+              "label": "Juego actualizado",
+              "value": "14 horas antes de la comprobación de datos"
+            },
+            {
+              "label": "Tiempo de juego promedio",
+              "value": "17.13 minutos"
+            }
+          ]
+        },
+        {
+          "section": "Estadísticas de jugadores y calificación",
+          "summary": "Actividad pública y números de calificación rastreados para el juego.",
+          "details": [
+            {
+              "label": "Jugadores",
+              "value": "860"
+            },
+            {
+              "label": "Visitas",
+              "value": "383,280"
+            },
+            {
+              "label": "Favoritos",
+              "value": "1,926"
+            },
+            {
+              "label": "Votos positivos",
+              "value": "3,127"
+            },
+            {
+              "label": "Votos negativos",
+              "value": "392"
+            },
+            {
+              "label": "Calificación",
+              "value": "88.860%"
+            }
+          ]
+        },
+        {
+          "section": "Estado del servidor",
+          "summary": "Señales de rendimiento y capacidad de servidores públicos rastreados.",
+          "details": [
+            {
+              "label": "Servidores rastreados",
+              "value": "80"
+            },
+            {
+              "label": "Promedio de FPS",
+              "value": "59.988"
+            },
+            {
+              "label": "Promedio de ping",
+              "value": "80.963"
+            },
+            {
+              "label": "Promedio de jugadores por servidor",
+              "value": "10.35"
+            },
+            {
+              "label": "Mínimo de jugadores por servidor",
+              "value": "1"
+            },
+            {
+              "label": "Máximo de jugadores por servidor",
+              "value": "24"
+            }
+          ]
+        },
+        {
+          "section": "Controles de actualización y contenido",
+          "summary": "Dónde mirar después de los parches o cuando cambia el título del juego.",
+          "details": [
+            {
+              "label": "Puntos de entrada de actualización",
+              "value": "Página del juego en Roblox, comunidad de Retrobyte Gamess, @RetrobyteG, página del juego en Rolimon's y página del servidor en Rolimon's"
+            },
+            {
+              "label": "Emblemas conocidos",
+              "value": "No hay emblemas conocidos en la lista"
+            },
+            {
+              "label": "Sub-lugares conocidos",
+              "value": "No hay sub-lugares conocidos en la lista"
+            },
+            {
+              "label": "Cantidad de Gamepasses mostrados",
+              "value": "6 pases en la lista"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Country RNG 2",
+    "titleHighlight": "FAQ",
+    "subtitle": "Respuestas rápidas sobre códigos, países, rarezas, suerte y progresión de Country RNG 2.",
+    "questions": [
+      {
+        "question": "¿Qué es Country RNG 2?",
+        "answer": "Country RNG 2 es un juego de RNG de Roblox de girar banderas creado por Retrobyte Gamess en el que giras para conseguir países, coleccionas banderas, avanzas en el árbol de mejoras y activas eventos a partir de giros raros."
+      },
+      {
+        "question": "¿Hay códigos de Country RNG 2 activos en este momento?",
+        "answer": "Los códigos de Country RNG 2 se rastrean desde la página oficial de Roblox, la comunidad de Retrobyte Gamess y el canal social @RetrobyteG. Cuando se publica un código, aparece en la sección de Códigos de Country RNG 2 con su recompensa correspondiente."
+      },
+      {
+        "question": "¿Cómo consigo países raros en Country RNG 2?",
+        "answer": "En Country RNG 2, los países raros se obtienen del bucle de giros. Mejorar la suerte, avanzar en el árbol de mejoras e incrementar la velocidad de giro aumentan tus posibilidades de conseguir giros de países raros y los eventos que estos activan."
+      },
+      {
+        "question": "¿Qué hace el árbol de mejoras en Country RNG 2?",
+        "answer": "El árbol de mejoras de Country RNG 2 es la ruta principal de progresión a largo plazo, vinculando tu progreso a mejores banderas y a resultados de giros más fuertes en lugar de depender únicamente de giros aleatorios."
+      },
+      {
+        "question": "¿Se necesitan los gamepasses de Country RNG 2 para progresar?",
+        "answer": "No. Los gamepasses de Country RNG 2 como 2X Luck, 2X Cash, Faster Rolls, 2X Gold y 3X Potion Roll son herramientas de aceleración. El camino gratuito a través de giros, ganancias y el árbol de mejoras sigue funcionando."
+      },
+      {
+        "question": "¿Dónde puedo jugar a Country RNG 2?",
+        "answer": "Country RNG 2 es una experiencia de Roblox creada por Retrobyte Gamess. Puedes unirte desde la página oficial del juego en Roblox y seguir a la comunidad de Retrobyte Gamess para recibir alertas de actualizaciones y códigos."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para girar en Country RNG 2?",
+    "description": "¡Únete a la comunidad de Retrobyte Games en Discord para obtener nuevos códigos, alertas de países raros, consejos sobre el árbol de mejoras y debates sobre actualizaciones!",
+    "joinCommunity": "Unirse a Discord",
+    "joinGame": "Jugar en Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Country RNG 2",
+    "description": "Tu centro de recursos completo para códigos, países, rarezas, mejoras de suerte, gamepasses, eventos y guías de actualización de Country RNG 2 en Roblox.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "discord": "Discord",
+    "robloxGame": "Juego de Roblox",
+    "robloxGroup": "Grupo de Roblox",
+    "youtube": "YouTube",
+    "about": "Acerca de",
+    "privacy": "Política de privacidad",
+    "terms": "Condiciones de servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Country RNG 2 Wiki. No afiliado con Retrobyte Gamess.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
   }
 }
