@@ -54,9 +54,15 @@ function main() {
   const manifest = {}
   let total = 0
 
+  // content/ 目录可能在本阶段被清空（如多语言/导航重构过渡期），此时降级为空清单而非报错，
+  // 避免 CI 在中间提交上因目录缺失而构建失败。后续阶段重建 content/ 后会重新生成正常清单。
   if (!fs.existsSync(CONTENT_DIR)) {
-    console.error(`[content-manifest] content 目录不存在: ${CONTENT_DIR}`)
-    process.exit(1)
+    fs.mkdirSync(OUT_DIR, { recursive: true })
+    fs.writeFileSync(OUT_FILE, '{}\n', 'utf8')
+    console.warn(
+      `[content-manifest] content 目录不存在: ${CONTENT_DIR}，已生成空清单（过渡状态）`,
+    )
+    return
   }
 
   const locales = fs

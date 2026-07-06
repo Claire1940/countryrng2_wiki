@@ -10,14 +10,7 @@
       "twitterDescription": "Country RNG 2 Wiki for Roblox: rare countries, roll chances, luck upgrades, events, codes, gamepasses, and beginner tips."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
