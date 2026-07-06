@@ -26,19 +26,23 @@ const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
 }
 
 // Extra semantic keywords per module to boost matching for h2 titles
-// These supplement the module title text when matching against articles
+// These supplement the module title text when matching against articles.
+// 关键词结合 en.json 模块 intro/子项名称与 content/en 实际文章 slug，
+// 让每个模块大标题尽量匹配到最相关的文章内页。
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  countryRng2Codes: ['codes', 'redeem', 'rewards', 'free'],
-  countryRng2BeginnerGuide: ['beginner', 'starter', 'progression', 'tutorial'],
-  countryRng2TierList: ['tier list', 'ranking', 'best countries', 'rarity'],
-  countryRng2CountriesAndRarities: ['countries', 'rarities', 'flags', 'roll chances'],
-  countryRng2LuckAndUpgradeTree: ['luck', 'upgrade tree', 'gold', 'roll speed'],
-  countryRng2GamepassesAndBoosts: ['gamepasses', 'boosts', 'robux', 'perks'],
-  countryRng2EventsAndRareRolls: ['events', 'rare rolls', 'lucky', 'limited'],
-  countryRng2UpdatesAndServerStatus: ['updates', 'server status', 'patch notes', 'maintenance'],
+  countryRng2Codes: ['codes', 'redeem', 'rewards', 'free', 'boosts'],
+  countryRng2BeginnerGuide: ['beginner', 'starter', 'progression', 'tutorial', 'first time', 'tips', 'how to play'],
+  countryRng2TierList: ['tier list', 'ranking', 'best countries', 'rarity', 'chase'],
+  countryRng2CountriesAndRarities: ['countries', 'rarities', 'flags', 'roll chances', 'rare countries', 'country list', 'australia'],
+  countryRng2LuckAndUpgradeTree: ['luck', 'upgrade tree', 'gold', 'roll speed', 'cash', 'potions', 'billion luck'],
+  countryRng2GamepassesAndBoosts: ['gamepasses', 'boosts', 'robux', 'perks', 'passes', '2x luck', 'faster rolls'],
+  countryRng2EventsAndRareRolls: ['events', 'rare rolls', 'lucky', 'limited', 'rare countries', 'spooky', 'bloodmoon', 'live update'],
+  countryRng2UpdatesAndServerStatus: ['updates', 'server status', 'patch notes', 'maintenance', 'servers', 'roblox', 'live update'],
 }
 
-const FILLER_WORDS = ['2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+// 游戏名 "Country RNG 2" 的各个单词作为停用词（'2' 因长度 ≤2 已被 getSignificantTokens 过滤），
+// 让 token 匹配忽略所有 CR2 文章共有的 country/rng，提升有区分度词的权重。
+const FILLER_WORDS = ['2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master', 'country', 'rng']
 
 function normalize(text: string): string {
   return text
