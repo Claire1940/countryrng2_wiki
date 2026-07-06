@@ -1,12 +1,14 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Country RNG 2 Wiki - Codes, Countries & Upgrade Guide",
+  "short_name": "Country RNG 2",
+  "description": "Country RNG 2 Wiki for Roblox players: find rare countries, roll chances, luck upgrades, events, codes, gamepasses, and beginner tips in one place.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#31c47b",
+  "background_color": "#ffffff",
+  "categories": ["games", "entertainment"],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
