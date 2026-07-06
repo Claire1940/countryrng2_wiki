@@ -38,6 +38,16 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Clock: LucideIcons.Clock,
   X: LucideIcons.X,
 
+  // Country RNG 2 首页 Tools Grid 卡片图标（8 张卡一一对应）
+  Gift: LucideIcons.Gift,
+  GraduationCap: LucideIcons.GraduationCap,
+  Trophy: LucideIcons.Trophy,
+  Flag: LucideIcons.Flag,
+  TreePine: LucideIcons.TreePine,
+  ShoppingBag: LucideIcons.ShoppingBag,
+  PartyPopper: LucideIcons.PartyPopper,
+  Server: LucideIcons.Server,
+
   // 默认回退图标
   HelpCircle: LucideIcons.HelpCircle,
 }
